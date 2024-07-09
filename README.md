@@ -9,8 +9,8 @@ This Streamlit app analyzes US real estate data including home values, growth me
 - Rent and demographic data: [Kaggle](https://www.kaggle.com/datasets/hieppham1341/apartment-rentals-merged-with-socio-economics-info)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository
+2. Navigate to the project directory
 3. Install the required packages
 
 ## Usage
