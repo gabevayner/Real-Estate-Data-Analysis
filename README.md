@@ -11,7 +11,7 @@ This Streamlit app analyzes US real estate data including home values, growth me
 ## Installation
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
 2. Navigate to the project directory: `cd your-repo`
-3. Install the required packages: `pip install -r requirements.txt`
+3. Install the required packages
 
 ## Usage
 1. Run the Streamlit app: `streamlit run Home.py`
